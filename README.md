@@ -16,6 +16,10 @@ These instructions will get you a copy of the project up and running on your loc
 Node
 ```
 
+## Depencendies
+
+- [Firebase Cloud Functions](https://github.com/rodrigopavezi/my-favourite-streamers-functions)
+
 ## Development
 
 ### Build
