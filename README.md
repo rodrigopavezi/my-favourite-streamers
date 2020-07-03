@@ -1,6 +1,6 @@
 # My Favourite Streamer
 
-This is an app to streams and events from your favourite twitch streamers. [DEMO HERE](https://my-favourite-streamers.firebaseapp.com/)
+This is an app to show streams and events from your favourite twitch streamers. [DEMO HERE](https://my-favourite-streamers.firebaseapp.com/)
 
 ![alt text](https://github.com/rodrigopavezi/my-favourite-streamers/blob/master/preview.png "preview")
 
